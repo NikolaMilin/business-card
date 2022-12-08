@@ -1,0 +1,27 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+
+.card {
+  border: 7px solid blueviolet;
+  padding: 20px 20px 20px 20px;
+  background-color: gray;
+  color: black;
+  border-bottom: 7px solid black ;
+  display: flex;
+  width: 400px;
+  margin:0 auto;
+ text-align: center;
+}
+
+.img {
+  width: 250px; 
+}
+
+.bored-blue {
+  border: 1px dotted blueviolet;
+  justify-content:space-around; 
+}
+
